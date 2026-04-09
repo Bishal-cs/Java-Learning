@@ -9,12 +9,12 @@ Welcome to my personal knowledge base! This repository contains my structured st
 
 ## 📂 Table of Contents
 
-### [01. Introduction & Architecture](01-Core-Java-Syntax.md)
+### [01. Introduction & Architecture](i-Core-Java-Syntax.md)
 * History and Features of Java
 * JVM, JRE, and JDK Architecture
 * Overview of Primitive Data Types
 
-### [02. Core Java Syntax & Fundamentals](02-Core-Java-Syntax.md)
+### [02. Core Java Syntax & Fundamentals](ii-Core-Java-Syntax.md)
 * Deep dive into Data Types & Memory
 * The `main` method and standard output
 * Taking User Input (`Scanner`)

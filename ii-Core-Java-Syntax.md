@@ -1,5 +1,4 @@
 
-
 # ☕ Core Java Syntax & Fundamentals
 
 This section covers the essential building blocks of Java programming, including variables, input/output, operators, control flow, and arrays.
@@ -85,9 +84,6 @@ public class InputExample {
 
 *Create a class named Calculator. Take two int values as user input and perform addition, subtraction, multiplication, and division.*
 
-\<details\>
-\<summary\>\<b\>Click to view the code solution\!\</b\>\</summary\>
-
 ```java
 import java.util.Scanner;
 
@@ -108,8 +104,6 @@ public class Calculator {
     }
 }
 ```
-
-\</details\>
 
 -----
 
@@ -211,7 +205,4 @@ public class ArrayExample {
         }
     }
 }
-```
-
-```
 ```
