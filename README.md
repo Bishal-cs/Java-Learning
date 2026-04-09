@@ -1,8 +1,4 @@
-﻿### File 1: `README.md`
-
-*(Save this in the main/root folder of your repository)*
-
-```markdown
+﻿```markdown
 # ☕ Java Learning Journey
 
 🌱 **Mastering Core Java & OOP principles. Converting my handwritten notes to code.** `System.out.println("Hello GitHub!");` 🚀
