@@ -9,11 +9,7 @@ Welcome to my personal knowledge base! This repository contains my structured st
 
 ## 📂 Table of Contents
 
-<<<<<<< HEAD
 ### [01. Introduction & Architecture](i-Core-Java-Syntax.md)
-=======
-### [01. Introduction & Architecture](./01-Core-Java-Syntax.md)
->>>>>>> dbe651d7d7fc7aae27d9eaebd78adcd728ae9b71
 * History and Features of Java
 * JVM, JRE, and JDK Architecture
 * Overview of Primitive Data Types
