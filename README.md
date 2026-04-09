@@ -9,22 +9,19 @@ Welcome to my personal knowledge base! This repository contains my structured st
 
 ## 📂 Table of Contents
 
-### [01. Introduction & Architecture] 
-   - [click to go](./01-Core-Java-Syntax.md)
+* [01. Introduction & Architecture](./01-Core-Java-Syntax.md)
+    * History and Features of Java
+    * JVM, JRE, and JDK Architecture
+    * Overview of Primitive Data Types
 
-* History and Features of Java
-* JVM, JRE, and JDK Architecture
-* Overview of Primitive Data Types
-
-### [02. Core Java Syntax & Fundamentals]
-   - [click to go](./ii-Core-Java-Syntax.md)
-
-* Deep dive into Data Types & Memory
-* The `main` method and standard output
-* Taking User Input (`Scanner`)
-* Operators and Conditional Statements
-* Loops (`for`, `while`, `do-while`, `for-each`)
-* Arrays & Memory Allocation
+* [02. Core Java Syntax & Fundamentals](./02-Core-Java-Syntax.md)
+    * Deep dive into Data Types & Memory
+    * The `main` method and standard output
+    * Taking User Input (`Scanner`)
+    * Operators and Conditional Statements
+    * Loops (`for`, `while`, `do-while`, `for-each`)
+    * Arrays & Memory Allocation
 
 ---
 *📝 Note: This repository is actively updated as I progress through my Java studies.*
+```
