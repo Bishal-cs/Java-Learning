@@ -1,4 +1,3 @@
-package array_objects;
 import java.util.Scanner;
 
 class Students{
